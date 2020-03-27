@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.exe
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.deps.json
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.json
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\alexa\source\repos\NumberGame\NumberGame\bin\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.AssemblyInfo.cs
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.dll
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.pdb
+C:\Users\alexa\source\repos\NumberGame\NumberGame\obj\Debug\netcoreapp3.1\NumberGame.genruntimeconfig.cache
